@@ -174,6 +174,14 @@
         <td>2147483647</td>
         <td>2147483645 3 2 -323523</td>
     </tr>
+    <tr>
+        <td>10</td>
+        <td>Все элементы 0</td>
+        <td>6</td>
+        <td>0 0 0 0 0 0</td>
+        <td>0</td>
+        <td>Array is empty</td>
+    </tr>
 </table>
 
 ![](https://i.pinimg.com/564x/bc/1e/46/bc1e46bf01876a546a0b602003752a94.jpg)
